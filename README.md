@@ -33,19 +33,10 @@ The script generates:
 - **100% arrows plot** (all directional vectors).  
 - **1% arrows plot** .  
 
----
 
-## License
 
-This project is released under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
 
-- You are free to **share** — copy and redistribute the material in any medium or format.  
-- **Attribution required** — you must give appropriate credit.  
-- **NonCommercial** — you may not use the material for commercial purposes.  
-- **NoDerivatives** — if you remix, transform, or build upon the material, you may not distribute the modified material.  
 
-For full details, see the [LICENSE](LICENSE) file or visit:  
-[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
 
