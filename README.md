@@ -16,7 +16,7 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 
 ## Requirements
 - **MATLAB R2025a or later** (developed using MATLAB trial version).   
-- Input: DNORA/SWAN `.mat` output file (.mat).  
+- Input: DNORA/SWAN `.mat` output file.
 
 ---
 
@@ -47,6 +47,7 @@ This project is released under the **Creative Commons Attribution-NonCommercial-
 
 For full details, see the [LICENSE](LICENSE) file or visit:  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 
 
