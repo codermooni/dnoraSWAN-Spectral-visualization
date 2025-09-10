@@ -1,5 +1,4 @@
 # MATLAB Spectral Visualization Script for DNORA/SWAN
-
 This repository provides the **MATLAB Spectral Visualization Script for DNORA/SWAN output files**.   
 The script generates **high-resolution 2D plots** of significant wave height (**Hsig**) with arrows indicating the mean wave direction (**DIR**).
 It was developed to support **SWAN wave model** post-processing when using the **DNORA** tool (Christakos et al., 2023).  
@@ -47,6 +46,7 @@ This project is released under the **Creative Commons Attribution-NonCommercial-
 
 For full details, see the [LICENSE](LICENSE) file or visit:  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 
 
 
