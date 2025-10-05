@@ -31,6 +31,7 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
    
 4. Choose the Hsig field (snapshot) for your nonstationary simulation output file,
    e.g.:
+   
    Hsig_20220404_010000 (1-hour simulation)
    Hsig_20220404_020000 (2-hour simulation)  
 
@@ -38,6 +39,7 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 
 - **100% arrows plot** (all directional vectors).  
 - **1% arrows plot** .  
+
 
 
 
