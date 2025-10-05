@@ -38,7 +38,16 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 5.The script generates:
 
 - **100% arrows plot** (all directional vectors).  
-- **1% arrows plot** .  
+- **1% arrows plot** .
+
+---
+
+## Example output
+
+Example of plotting using the DNORA/SWAN Spectral Visualization Tool – 
+Downscaling results offshore Martil, Morocco, during the extreme wave storm of 04 April 2022.
+![image alt](https://github.com/codermooni/dnoraSWAN-Spectral-visualization/blob/996f65148d861207bcce4825ea626282d6310e87/Example%20output.jpg)
+
 
 
 
