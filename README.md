@@ -15,7 +15,7 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 ---
 
 ## Requirements
-- **MATLAB R2025a or later** (developed using MATLAB trial version).   
+- **MATLAB R2021a or later** (developed using R2025a MATLAB trial version).   
 - Input: DNORA/SWAN `.mat` output file.
 
 ---
@@ -27,12 +27,18 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 ``matlab
    MATLAB_Spectral_Visualization_Script_for_DNORA.m
   
-3. Select the DNORA/SWAN `.mat` file when prompted.  
+3. Select the DNORA/SWAN `.mat` file when prompted.
+   
+4. Choose the Hsig field (snapshot) for your nonstationary simulation output file,
+   e.g.:
+   Hsig_20220404_010000 (1-hour simulation)
+   Hsig_20220404_020000 (2-hour simulation)  
 
-The script generates:
+5.The script generates:
 
 - **100% arrows plot** (all directional vectors).  
 - **1% arrows plot** .  
+
 
 
 
