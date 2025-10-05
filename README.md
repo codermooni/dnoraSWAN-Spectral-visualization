@@ -15,7 +15,7 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 ---
 
 ## Requirements
-- **MATLAB R2021a or later** (developed using R2025a MATLAB trial version).   
+- **MATLAB R2021a or later**   
 - Input: DNORA/SWAN `.mat` output file.
 
 ---
@@ -39,6 +39,7 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 
 - **100% arrows plot** (all directional vectors).  
 - **1% arrows plot** .  
+
 
 
 
