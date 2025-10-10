@@ -1,5 +1,6 @@
-# MATLAB Spectral Visualization Script-code for DNORA/SWAN
+# MATLAB Spectral Visualization Script-code for DNORA/SWAN  
 
+## Cite this repository
 [![DOI](https://zenodo.org/badge/1052809009.svg)](https://doi.org/10.5281/zenodo.17314439)
 
 ---
@@ -53,6 +54,7 @@ The script can be applied to DNORA/SWAN output files, allowing fast and reproduc
 Example of plotting using the DNORA/SWAN Spectral Visualization Tool – 
 Downscaling results offshore Martil, Morocco, during the extreme wave storm of 04 April 2022.
 ![image alt](https://github.com/codermooni/dnoraSWAN-Spectral-visualization/blob/996f65148d861207bcce4825ea626282d6310e87/Example%20output.jpg)
+
 
 
 
